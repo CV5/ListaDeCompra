@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         userEditText = findViewById(R.id.user);
         passEditText = findViewById(R.id.pass);
 
-
     }
 
 
